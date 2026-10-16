@@ -32,6 +32,9 @@ Analyse de 2 500 incendies à Lyon et prédiction du niveau de risque par un mod
 
 ### Applications web full-stack
 
+**[Relya CRM](https://github.com/AyaElouajjite/relya-crm)** — Java, Spring Boot, Angular, FastAPI, PostgreSQL, Docker
+CRM pour PME couvrant prospection, pipeline commercial, devis et factures, SAV et pilotage, avec scoring des leads par IA, notifications temps réel et déploiement Docker. Projet réalisé en binôme.
+
 **[Interactive Task Manager](https://github.com/AyaElouajjite/interactive-task-manager)** — React, TypeScript, Node.js, Express, MySQL
 Gestionnaire de tâches avec tableau Kanban en glisser-déposer, authentification JWT, réinitialisation du mot de passe par e-mail et statistiques.
 
